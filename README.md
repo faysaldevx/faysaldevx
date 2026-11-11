@@ -98,17 +98,9 @@
   </picture>
 </p>
 
-<h3>GitHub Statistics</h3>
 
-| GitHub Stats | Top Languages |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=faysaldevx&show_icons=true&theme=tokyonight&hide_border=true" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysaldevx&layout=compact&theme=tokyonight&hide_border=true" width="350"/> |
 
-<h3>Contribution Streak</h3>
 
-<img src="https://streak-stats.demolab.com?user=faysaldevx&theme=tokyonight&hide_border=true" width="70%"/>
-
-<br/>
 
 <!-- RANDOM DEV QUOTE -->
 <h2>
