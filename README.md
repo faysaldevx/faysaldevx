@@ -1,4 +1,4 @@
-<img src="./banner/git-banner.jfif" alt="Hello world">
+<img src="git-banner.jfif" alt="banner">
 
 <br/>
 
