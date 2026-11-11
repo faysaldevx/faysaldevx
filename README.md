@@ -19,7 +19,7 @@
 - 🗄️ Using **Node.js, MongoDB** for the backend.
 - 🛠️ I’m currently learning **REST API**.
 - 💬 Ask me about **Full-Stack (React, Next, Node, MongoDB)**.
-- 🌐 Explore My Portfolio **[TouhidCodes](https://touhidcodes.vercel.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)**
+- 🌐 Explore My Portfolio **[faysaldevx](#)** and My **[Resume](#)**
 - 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/faysaldevx)**
 - 📫 Feel free to reach me out **[Email](afapoubo@gmail.com)**
   
